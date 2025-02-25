@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities</string>
+    <string name="article_text">This is an example of an article text.\n\n
+        It contains <b>bold</b> and <i>italic</i> formatting. You can also combine <b><i>both</i></b>.\n\n
+        If you have an apostrophe, escape it like this: It\'s important.\n
+        Double-quotes must also be escaped: \"Android Development\".\n\n
+        Visit <a>www.google.com</a> for more information.
+    </string>
+</resources>
